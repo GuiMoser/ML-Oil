@@ -4,7 +4,7 @@ Training a regression model for choosing the best region to develop new oil well
 
 This notebook performs a brief EDA in 3 datasets for 3 different regions. 
 
-To work with 3 datasets, define functions for split and scaling, fit and predictions, calcular previsões médias e RMSE.
+To work with 3 datasets, define functions for split and scaling, fit and predictions, calculate average predictions and RMSE e RMSE.
 
 Calculates the profit of the best wells in each region. Performs bootsrapping to calculate the average profit, confidence interval and risk of loss.
 
