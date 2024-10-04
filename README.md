@@ -1,4 +1,4 @@
-# Machine Learning Oil
+# Machine Learning Regression Oil
 
 Training a regression model for choosing the best region to develop new oil wells.
 
